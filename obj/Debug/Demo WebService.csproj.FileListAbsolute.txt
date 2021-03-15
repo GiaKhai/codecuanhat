@@ -1,0 +1,128 @@
+G:\SuperIntern\Pro\Demo WebService\bin\Demo WebService.dll.config
+G:\SuperIntern\Pro\Demo WebService\bin\Demo WebService.dll
+G:\SuperIntern\Pro\Demo WebService\bin\Demo WebService.pdb
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\csc.exe
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\csc.exe.config
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\csc.rsp
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\csi.exe
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\csi.rsp
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\System.AppContext.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\System.Collections.Immutable.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\System.IO.FileSystem.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\System.Reflection.Metadata.dll
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\vbc.exe
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\vbc.exe.config
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\vbc.rsp
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\VBCSCompiler.exe
+G:\SuperIntern\Pro\Demo WebService\bin\roslyn\VBCSCompiler.exe.config
+G:\SuperIntern\Pro\Demo WebService\bin\Antlr3.Runtime.dll
+G:\SuperIntern\Pro\Demo WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SuperIntern\Pro\Demo WebService\bin\Microsoft.Web.Infrastructure.dll
+G:\SuperIntern\Pro\Demo WebService\bin\Newtonsoft.Json.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Net.Http.Formatting.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Helpers.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Http.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Http.WebHost.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Mvc.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Optimization.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Razor.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.WebPages.Deployment.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.WebPages.dll
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.WebPages.Razor.dll
+G:\SuperIntern\Pro\Demo WebService\bin\WebGrease.dll
+G:\SuperIntern\Pro\Demo WebService\bin\Newtonsoft.Json.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Net.Http.Formatting.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Helpers.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Http.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Http.WebHost.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Mvc.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Optimization.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.Razor.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.WebPages.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.WebPages.Deployment.xml
+G:\SuperIntern\Pro\Demo WebService\bin\System.Web.WebPages.Razor.xml
+G:\SuperIntern\Pro\Demo WebService\bin\Antlr3.Runtime.pdb
+G:\SuperIntern\Pro\Demo WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SuperIntern\Pro\Demo WebService\obj\Debug\Demo WebService.csprojAssemblyReference.cache
+G:\SuperIntern\Pro\Demo WebService\obj\Debug\Demo WebService.csproj.CoreCompileInputs.cache
+G:\SuperIntern\Pro\Demo WebService\obj\Debug\Demo WebService.csproj.CopyComplete
+G:\SuperIntern\Pro\Demo WebService\obj\Debug\Demo WebService.dll
+G:\SuperIntern\Pro\Demo WebService\obj\Debug\Demo WebService.pdb
+G:\SuperIntern\Pro\Demo WebService\bin\Swashbuckle.Core.dll
+G:\SuperIntern\Pro\Demo WebService\bin\WebActivatorEx.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Demo WebService.dll.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Demo WebService.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Demo WebService.pdb
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Antlr3.Runtime.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Swashbuckle.Core.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Optimization.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\WebActivatorEx.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\WebGrease.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Optimization.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\Demo WebService.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\Demo WebService.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\Demo WebService.csproj.CopyComplete
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\Demo WebService.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\Demo WebService.pdb

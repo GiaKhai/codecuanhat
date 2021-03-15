@@ -1,0 +1,128 @@
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Demo WebService.dll.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Demo WebService.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Demo WebService.pdb
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Antlr3.Runtime.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Swashbuckle.Core.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Optimization.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\WebActivatorEx.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\WebGrease.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Optimization.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\NguyenHoangNhat_5951071069.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\NguyenHoangNhat_5951071069.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\NguyenHoangNhat_5951071069.csproj.CopyComplete
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\Demo WebService.dll
+C:\Users\HP\Downloads\C3_Demo\Demo WebService\obj\Debug\Demo WebService.pdb
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Swashbuckle.Core.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\WebActivatorEx.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\WebGrease.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\obj\Debug\NguyenHoangNhat_5951071069.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\obj\Debug\NguyenHoangNhat_5951071069.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\obj\Debug\NguyenHoangNhat_5951071069.csproj.CopyComplete
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\NguyenHoangNhat_5951071069.dll.config
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\NguyenHoangNhat_5951071069.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\bin\NguyenHoangNhat_5951071069.pdb
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\obj\Debug\NguyenHoangNhat_5951071069.dll
+C:\Users\HP\Desktop\5951071069_NguyenHoangNhat\obj\Debug\NguyenHoangNhat_5951071069.pdb
